@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0
+}
+h1 {
+    margin: 20px;
+}
+.slider {
+    margin: 20px;
+}
+
+.slider p {
+    display: inline;
+    margin: 20px;
+    font: 20pt sans-serif
+}
+
+.donuts, .sils {
+    display: inline
+}
+
+.donuts {
+    position: absolute;
+    width: 40%;
+    text-align: right;
+    height: 300px;
+    overflow: hidden;
+}
+
+.donuts ul {
+    list-style-type: none
+}
+.sils {
+    position: absolute;
+    width: 100%;
+    padding-left: 40%
+}
